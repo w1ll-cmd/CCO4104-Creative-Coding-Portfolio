@@ -8,15 +8,15 @@ In this third experiment, I utilise AI to help me create some really good-lookin
 
 
 
-![alt text](images/image5.png)
+![alt text](images/image5.png.png)
 
 
-![alt text](images/image6.png)
+![alt text](images/image6.png.png)
 
 
-![alt text](images/image7.png)
+![alt text](images/image7.png.png)
 
 
 [Link to experiment 1 web](/code/Experiment-1-code/index.html)
 
-![alt text](images/image2.png)
+![alt text](images/image2.png.png)
