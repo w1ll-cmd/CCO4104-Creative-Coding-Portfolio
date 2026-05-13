@@ -16,7 +16,7 @@ Above is the first iteration of the main program. Here, I asked ChatGPT to give 
 
 [Link to iteration 1 web](/code/Experiment-3-code-itr-1/index.html)
 
-## Iteration 2
+## Iteration 2:
 
 ![alt text](images/image6.png.png)
 
