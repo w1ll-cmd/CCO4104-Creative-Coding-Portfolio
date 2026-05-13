@@ -3,4 +3,4 @@ For this experiment, I chose the control panel because I liked the idea of creat
 
 [Link to experiment 1 web](/code/Experiment-1-code/index.html)
 
-![alt text](image.jpg)
+![alt text](/images/image1)
