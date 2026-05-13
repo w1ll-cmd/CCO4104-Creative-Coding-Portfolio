@@ -2,25 +2,23 @@
 
 In this third experiment, I utilise AI to help me create some really good-looking effects in p5. I chose the webcam brief as I had some good ideas I wanted to try and implement using AI, and I think it can also be really fun to make use of the webcam on my laptop.
 
-
-[Link to experiment 1 web](/code/Experiment-2-code/index.html)
-
-
-![alt text](images/image4.png)
+![alt text](images/image4.png.png)
 
 Above is the first, main program I created using ChatGPT. This is a distortion effect where, as you move the mouse to the right on the screen, the level of distortion increases, and it moves dynamically, which looks really smooth. I made sure to give AI lots of context and specifics so that it could create my idea with accuracy without much hallucination.
 
-[Link to experiment 1 web](/code/Experiment-2-code/index.html)
+[Link to experiment 1 web](/code/Experiment-3-code/index.html)
 
 ![alt text](images/image5.png.png)
 
 Above is the first iteration of the main program. Here, I asked ChatGPT to give me controls to create interesting effects with the webcam. They change the colours and bloom effects, which was really fun to experiment with. I had an issue where the program was too much for p5 (or my laptop), and so I asked the AI model to simplify the code and optimise it for better performance.
 
+[Link to iteration 1 web](/code/Experiment-3-code-itr-1/index.html)
+
 ![alt text](images/image6.png.png)
 
 ![alt text](images/image7.png.png)
 
-[Link to experiment 1 web](/code/Experiment-1-code/index.html)
+[Link to iteration 2 web](/code/Experiment-3-code-itr-2/index.html)
 
 ![alt text](images/image2.png.png)
 
