@@ -12,12 +12,16 @@ I started my first edperiment in multiple stages. I first tried to make small ci
 
 ## Iteration 1
 
-For my first Iteration
+(Hold down 'shift' to split dots and 'control' to remove them)
+
+For my first Iteration, I decided that I wwanted to give the user the ability to create and remove these dots when pressing keycommands. This required two new functions that carried out this and the use of inbuilt commands into p5 like KEYPRESS, for when a key is pressed down.
 
 
 ![alt text](images/image6.png)
 
 ## Iteration 2
+
+For my final iteration, I decided that I wanted to explore how I would change the shape of my dots with code. To do this I create a random number, and if that number is either 1, or 2, a function is called and then draws the correlating shape of either a circle or a square. I originally wanted to implement rectangels, triangles and elipses as well, but realised my collisions would then not work properly 
 
 
 ![alt text](images/image7.png)
