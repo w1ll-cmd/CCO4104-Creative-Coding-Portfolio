@@ -1,11 +1,12 @@
 # Experiment 2
 
-In this third experiment, I utilise AI to help me create some really good-looking effects in p5. I chose the webcam brief as I had some good ideas I wanted to try and implement using AI, and I think it can also be really fun to make use of the webcam on my laptop.
+In this second experiment, I chose the mouse distruber. I chose this because I really wanted to dive into the code behind making shapes bouce off of objects, and this could be the perfect way to try it out.
 
 
 [Link to experiment 1 web](/code/Experiment-2-code/index.html)
 ![alt text](images/image4.png)
 
+I started my first edperiment in multiple stages. I first tried to make small circles called 'dots' bounce off of a circle that follows the mouse, which is the 'disturber'.
 
 ![alt text](images/image5.png)
 
