@@ -15,6 +15,7 @@ I started my first experiment in multiple stages. I first tried to make small ci
 
 For my first Iteration, I decided that I wanted to give the user the ability to create and remove these dots when pressing key commands. This required two new functions that carried out this and the use of built-in commands in p5, like KEYPRESS, for when a key is pressed down.
 
+[Link to experiment 1, iteration 1 web](/code/Experiment-1-itr-1-code/index.html)
 
 ![alt text](images/2.1.png)
 
@@ -28,6 +29,6 @@ For my final iteration, I decided that I wanted to explore how I would change th
 ![alt text](images/2.0.png)
 
 
-[Link to experiment 1 web](/code/Experiment-1-code/index.html)
+[Link to experiment 1, iteration 2 web](/code/Experiment-1-itr-2-code/index.html)
 
-![alt text](images/image2.png)
+
