@@ -22,7 +22,6 @@ Above is the first iteration of the main program. Here, I asked ChatGPT to give 
 
 ![alt text](images/image7.png.png)
 
-![alt text](images/image2.png.png)
 
 This final iteration was where I had the most fun. I didn't think it was possible, but AI suggested that I could use text symbols to mirror the webcam footage. This was really cool, and it was a lot less code than I thought it would be. Only 41 lines.
 
