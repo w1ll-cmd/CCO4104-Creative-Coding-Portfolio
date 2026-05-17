@@ -4,7 +4,6 @@ In this second experiment, I chose the mouse disturber. I chose this because I r
 
 
 [Link to experiment 2 web](/code/Experiment-2-code/index.html)
-![alt text](images/2.0.png)
 
 I started my first experiment in multiple stages. I first tried to make small circles called 'dots' bounce off a circle that follows the mouse, which is the 'disturber'. Then, after this, I created an array to store these dots, so that I could have lots of them that are affected by the mouse circle. Finally, I then added in two more behaviours, where the small dots change their size and colour when they bounce off the mouse circle, making an interesting effect.
 
