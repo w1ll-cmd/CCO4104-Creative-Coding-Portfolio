@@ -14,7 +14,7 @@ Above is the first, main program I created using ChatGPT. This is a distortion e
 
 Above is the first iteration of the main program. Here, I asked ChatGPT to give me controls to create interesting effects with the webcam. They change the colours and bloom effects, which was really fun to experiment with. I had an issue where the program was too much for p5 (or my laptop), and so I asked the AI model to simplify the code and optimise it for better performance.
 
-[Link to iteration 1 web](/code/Experiment-3-code-itr-1/index.html)
+[Link to iteration 1](/code/Experiment-3-itr-1-code/index.html)
 
 ## Iteration 2:
 
@@ -25,4 +25,4 @@ Above is the first iteration of the main program. Here, I asked ChatGPT to give 
 
 This final iteration was where I had the most fun. I didn't think it was possible, but AI suggested that I could use text symbols to mirror the webcam footage. This was really cool, and it was a lot less code than I thought it would be. Only 41 lines.
 
-[Link to iteration 2 web](/code/Experiment-3-code-itr-2/index.html)
+[Link to iteration 2](/code/Experiment-3-itr-2-code/index.html)
